@@ -62,6 +62,10 @@ python app.py
 
 3. Access the automatic API documentation at `http://localhost:8000/docs`
 
+This is how the API documentation homepage would look like:
+
+![Alt text](images/api-doc.png)
+
 This implementation uses SQLite for simplicity, but you can easily switch to PostgreSQL, MySQL, or another database by changing the DATABASE_URL configuration.
 
 Suggestions and thoughts welcome!
